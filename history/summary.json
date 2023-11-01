@@ -4,35 +4,39 @@
     "url": "http://galacyber.is-a.dev",
     "icon": "https://icons.duckduckgo.com/ip3/galacyber.is-a.dev.ico",
     "slug": "portofolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 357,
-    "timeWeek": 223,
-    "timeMonth": 180,
+    "timeDay": 174,
+    "timeWeek": 204,
+    "timeMonth": 182,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 0
+    }
   },
   {
     "name": "CountDown NewYear",
     "url": "https://galacyber.is-a.dev/CountDown-NewYears",
     "icon": "https://icons.duckduckgo.com/ip3/galacyber.is-a.dev.ico",
     "slug": "count-down-new-year",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 111,
-    "timeWeek": 90,
+    "timeDay": 62,
+    "timeWeek": 71,
     "timeMonth": 78,
     "timeYear": 79,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 0
+    }
   }
 ]
