@@ -26,19 +26,19 @@
     "url": "https://api.universebot.space",
     "icon": "https://icons.duckduckgo.com/ip3/api.universebot.space.ico",
     "slug": "universe-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 291,
-    "timeWeek": 216,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 226,
+    "timeDay": 278,
+    "timeWeek": 220,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-02-06": 0
+      "2024-02-06": 17
     }
   },
   {
